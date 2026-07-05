@@ -2550,6 +2550,831 @@
 	"randomized": 0
     },
     {
+        "name": "On Table",
+        "region": "G CCC Basement Workshop",
+        "original_item": "Scrap",
+        "condition": {},
+        "item_object": "it50_00_002",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -21.82,
+        -8.09,
+        36.46
+        ]
+    },
+    {
+        "name": "Next to Forklift",
+        "region": "G CCC Basement Construction Storage",
+        "original_item": "Empty Bottle",
+        "condition": {},
+        "item_object": "it20_00_003",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -42.65,
+        -8.99,
+        37.58
+        ]
+    },
+    {
+        "name": "On Storage Shelf",
+        "region": "G CCC Basement Construction Storage",
+        "original_item": "Scrap",
+        "condition": {},
+        "item_object": "it50_00_002",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -34.75,
+        -8.1,
+        29.61
+        ]
+    },
+    {
+        "name": "Basement Safe",
+        "region": "G CCC Basement Construction Storage",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -33.2,
+        -8.13,
+        31.14
+        ]
+    },
+    {
+        "name": "Joint Plug 2",
+        "region": "G CCC Basement Construction Storage",
+        "original_item": "Joint Plug",
+        "condition": {},
+        "item_object": "sm80_241_00_Dynamic",
+        "parent_object": "Gm99_100",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique",
+        "item_position": [
+        -41.9,
+        -8.99,
+        38.29
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "Inside Crawling Space",
+        "region": "G CCC Basement Service Passage",
+        "original_item": "Lockpick",
+        "condition": {},
+        "item_object": "it99_50_006",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -40.14,
+        -9.02,
+        27.15
+        ]
+    },
+    {
+        "name": "On Bed Next To TV",
+        "region": "G CCC Basement Bunkroom",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        9.98,
+        -8.27,
+        60.17
+        ]
+    },
+    {
+        "name": "In Locker",
+        "region": "G CCC Basement Bunkroom",
+        "original_item": "Scrap",
+        "condition": {},
+        "item_object": "it50_00_002",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_019_Gimmick_Unique",
+        "item_position": [
+        18.62,
+        -7.79,
+        58.85
+        ]
+    },
+    {
+        "name": "In Locked Locker",
+        "region": "G CCC Basement Bunkroom",
+        "original_item": "Rare Metal",
+        "condition": {
+            "Items": [
+                "Lockpick"
+            ]
+	},
+        "item_object": "it50_00_006",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        18.63,
+        -7.8,
+        57.31
+        ]
+    },
+    {
+        "name": "Next to Rusty Pipes",
+        "region": "G CCC Basement Boiler Room",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "it00_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        9.42,
+        -9.01,
+        40.11
+        ]
+    },
+    {
+        "name": "On Wet Floor",
+        "region": "G CCC Basement Boiler Room",
+        "original_item": "Lockpick",
+        "condition": {},
+        "item_object": "it99_50_006",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        13.76,
+        -9.01,
+        45.03
+        ]
+    },
+    {
+        "name": "Inside Toolbox",
+        "region": "G CCC Basement Boiler Room",
+        "original_item": "Empty Bottle",
+        "condition": {},
+        "item_object": "it20_00_003",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        1.16,
+        -8.92,
+        46.17
+        ]
+    },
+    {
+        "name": "Square Socket Wrench",
+        "region": "G CCC Basement Boiler Room",
+        "original_item": "Square Socket Wrench",
+        "condition": {},
+        "item_object": "it60_00_041",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/KeyItem",
+        "item_position": [
+        1.24,
+        -8.86,
+        46.43
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "In Ventilation Tunnel",
+        "region": "G CCC Basement Collection Pool",
+        "original_item": "Scrap",
+        "condition": {},
+        "item_object": "it50_00_002",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -17.1,
+        -8.21,
+        82.59
+        ]
+    },
+    {
+        "name": "After Ventilation Tunnel",
+        "region": "G CCC Basement Collection Pool",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "it00_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -29.75,
+        -9.02,
+        73.6
+        ]
+    },
+    {
+        "name": "Forklift Key",
+        "region": "G CCC Basement Processing",
+        "original_item": "Forklift Key",
+        "condition": {},
+        "item_object": "it60_00_042",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/KeyItem",
+        "item_position": [
+        -46.59,
+        -6.49,
+        72.91
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "On Barrel",
+        "region": "G CCC Basement Processing",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -52.3,
+        -5.36,
+        72.13
+        ]
+    },
+    {
+        "name": "On Table",
+        "region": "G CCC Basement Processing",
+        "original_item": "Hip Pouch",
+        "condition": {},
+        "item_object": "it99_01_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -50.03,
+        -5.55,
+        70.94
+        ]
+    },
+    {
+        "name": "In Locker",
+        "region": "G CCC Basement Inspection",
+        "original_item": "Scrap",
+        "condition": {},
+        "item_object": "it50_00_002",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique",
+        "item_position": [
+        -38.97,
+        -7.79,
+        40.01
+        ]
+    },
+    {
+        "name": "In Locked Locker",
+        "region": "G CCC Basement Inspection",
+        "original_item": "Rare Metal",
+        "condition": {
+            "Items": [
+                "Lockpick"
+            ]
+	},
+        "item_object": "it50_00_006",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -38.88,
+        -7.78,
+        39.57
+        ]
+    },
+    {
+        "name": "On Body Storage Shelf",
+        "region": "G CCC Basement Inspection",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -43.04,
+        -7.94,
+        48.26
+        ]
+    },
+    {
+        "name": "On Body Bag",
+        "region": "G CCC Basement Inspection",
+        "original_item": "Makeshift Knife",
+        "condition": {},
+        "item_object": "it10_20_003",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -39.15,
+        -8.34,
+        52.65
+        ]
+    },
+    {
+        "name": "Next To Valve",
+        "region": "G CCC Basement Processing",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "it00_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -41.37,
+        -6.49,
+        65.52
+        ]
+    },
+    {
+        "name": "South Center Conveyor Belt",
+        "region": "G CCC Basement Processing",
+        "original_item": "Molotov Cocktail",
+        "condition": {},
+        "item_object": "it20_00_002",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -41.22,
+        -8.18,
+        73.52
+        ]
+    },
+    {
+        "name": "Southeast Conveyor Belt",
+        "region": "G CCC Basement Processing",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -37.93,
+        -8.18,
+        73.49
+        ]
+    },
+    {
+        "name": "Northwest Conveyor Belt",
+        "region": "G CCC Basement Processing",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -45.7,
+        -8.18,
+        67.46
+        ]
+    },
+    {
+        "name": "Joint Plug 3",
+        "region": "G CCC Basement Processing",
+        "original_item": "Joint Plug",
+        "condition": {},
+        "item_object": "sm80_241_00_Dynamic",
+        "parent_object": "Gm99_100",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_070_Gimmick_Unique",
+        "item_position": [
+        -39.08,
+        -6.49,
+        73.72
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "On Lower Level",
+        "region": "G CCC Basement Collection Pool",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "it00_00_000",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -6.38,
+        -14.49,
+        65.99
+        ]
+    },
+    {
+        "name": "In Cell after 3 Joint Plugs",
+        "region": "G CCC Basement Holding Cells",
+        "original_item": "Empty Injector",
+        "condition": {},
+        "item_object": "it50_00_018",
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+        "item_position": [
+        -10.21,
+        -8.26,
+        32.89
+        ]
+    },
+    {
+        "name": "Star Quartz",
+        "region": "G CCC Rehabilitation Ward",
+        "original_item": "Star Quartz",
+        "condition": {},
+        "item_object": "sm81_093_00_Dynamic",
+        "parent_object": "Gm21_002",
+        "folder_path": "MainGame/Chap3_0304/Chap3_0304_Gimmick/Chap3_0304_Gimmick_Unique/st30_016_Gimmick_Unique",
+        "item_position": [
+        22.01,
+        0.68,
+        51.0
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "By Elevator",
+        "region": "G CCC Rehabilitation Ward",
+        "original_item": "Severed Hand",
+        "condition": {},
+        "item_object": "it60_00_084",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Item",
+        "item_position": [
+        21.47,
+        1.95,
+        51.05
+        ]
+    },
+    {
+        "name": "On Chair",
+        "region": "G CCC Courtyard",
+        "original_item": "Antique Coin",
+        "condition": {},
+        "item_object": "it99_50_005",
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Item",
+        "item_position": [
+        -3.95,
+        -0.14,
+        14.42
+        ]
+    },
+    {
+        "name": "Inside Water",
+        "region": "G CCC Courtyard",
+        "original_item": "Makeshift Knife",
+        "condition": {},
+        "item_object": "it10_20_003",
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Item",
+        "item_position": [
+        0.48,
+        -3.75,
+        -19.96
+        ]
+    },
+    {
+        "name": "Behind the fountain",
+        "region": "G CCC Courtyard",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "it00_00_000",
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Item",
+        "item_position": [
+        0.74,
+        -2.35,
+        -27.1
+        ]
+    },
+    {
+        "name": "Wine Bottle",
+        "region": "G CCC Courtyard VIP Suite",
+        "original_item": "Double Helix Model",
+        "condition": {},
+        "item_object": "Gm04_015",
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Unique/st30_088_Gimmick_Unique",
+        "item_position": [
+        -30.0,
+        -1.41,
+        -35.33
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "In Drawer",
+        "region": "G CCC Courtyard Collection & Testing",
+        "original_item": "Med Injector",
+        "condition": {},
+        "item_object": "it00_01_000",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Item",
+        "item_position": [
+        -26.02,
+        -29.38,
+        -69.12
+        ]
+    },
+    {
+        "name": "Helicopter Key",
+        "region": "G CCC Courtyard Private Lab",
+        "original_item": "Helicopter Key",
+        "condition": {},
+        "item_object": "it60_00_081",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Item/KeyItem",
+        "item_position": [
+        -34.67,
+        -26.28,
+        -55.21
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "Disposal Tank West Center Room",
+        "region": "G CCC Courtyard Collection & Testing",
+        "original_item": "Disposal Tank",
+        "condition": {},
+        "item_object": "it10_10_002",
+        "parent_object": "sm80_325_00_Dynamic",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Gimmick/Chap3_04_Gimmick_Unique/st30_085_Gimmick_Unique",
+        "item_position": [
+        -23.77,
+        -29.06,
+        -56.85
+        ]
+    },
+    {
+        "name": "Disposal Tank South Center Room",
+        "region": "G CCC Courtyard Collection & Testing",
+        "original_item": "Disposal Tank",
+        "condition": {},
+        "item_object": "it10_10_002",
+        "parent_object": "sm80_325_03_Dynamic",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Gimmick/Chap3_04_Gimmick_Unique/st30_085_Gimmick_Unique",
+        "item_position": [
+        -15.98,
+        -29.06,
+        -50.58
+        ]
+    },
+    {
+        "name": "Disposal Tank Southeast Room",
+        "region": "G CCC Courtyard Collection & Testing",
+        "original_item": "Disposal Tank",
+        "condition": {},
+        "item_object": "it10_10_002",
+        "parent_object": "sm80_325_03_Dynamic",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Gimmick/Chap3_04_Gimmick_Unique/st30_085_Gimmick_Unique",
+        "item_position": [
+        -8.76,
+        -29.06,
+        -51.42
+        ]
+    },
+    {
+        "name": "Disposal Tank Northwest Room",
+        "region": "G CCC Courtyard Collection & Testing",
+        "original_item": "Disposal Tank",
+        "condition": {},
+        "item_object": "it10_10_002",
+        "parent_object": "sm80_325_00_Dynamic",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Gimmick/Chap3_04_Gimmick_Unique/st30_085_Gimmick_Unique",
+        "item_position": [
+        -23.36,
+        -29.06,
+        -70.77
+        ]
+    },
+    {
+        "name": "After Emergency Exit",
+        "region": "G CCC Courtyard Helipad",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "it00_00_000",
+        "folder_path": "MainGame/Chap3_04/Chap3_04_Item",
+        "item_position": [
+        -35.4,
+        -3.01,
+        -34.04
+        ]
+    },
+    {
+        "name": "On Box Before Stairs",
+        "region": "L CCC Courtyard Roof",
+        "original_item": "Tracking Module",
+        "condition": {},
+        "item_object": "it99_50_008",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        22.51,
+        15.34,
+        19.02
+        ]
+    },
+    {
+        "name": "By Window",
+        "region": "L CCC Courtyard Roof",
+        "original_item": "Rifle Ammo",
+        "condition": {},
+        "item_object": "it40_05_000",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        38.19,
+        18.71,
+        16.03
+        ]
+    },
+    {
+        "name": "On Table 1",
+        "region": "L CCC Courtyard Roof",
+        "original_item": "Rifle Ammo",
+        "condition": {},
+        "item_object": "it40_05_000_02",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        47.87,
+        18.49,
+        10.87
+        ]
+    },
+    {
+        "name": "On Table 2",
+        "region": "L CCC Courtyard Roof",
+        "original_item": "Rifle Ammo",
+        "condition": {},
+        "item_object": "it40_05_000_02_01",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        48.0,
+        18.49,
+        10.67
+        ]
+    },
+    {
+        "name": "Crate By Vault Spot",
+        "region": "L CCC Courtyard Roof",
+        "original_item": "Rifle Ammo",
+        "condition": {},
+        "item_object": "it40_05_000",
+        "folder_path": "AppResident/Instance/Item",
+        "item_position": [
+        51.79,
+        17.71,
+        10.72
+        ]
+    },
+    {
+        "name": "Inside Helicopter",
+        "region": "L CCC Courtyard Cemetery",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        55.79,
+        0.51,
+        -26.84
+        ]
+    },
+    {
+        "name": "On Table",
+        "region": "L CCC Courtyard Chapel",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "it20_00_000",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        88.87,
+        1.58,
+        -29.3
+        ]
+    },
+    {
+        "name": "Inside Medical Case",
+        "region": "L CCC Courtyard Chapel",
+        "original_item": "Med Injector",
+        "condition": {},
+        "item_object": "it00_01_000",
+        "parent_object": "ItemSpawner_04",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        89.37,
+        1.72,
+        -29.2
+        ]
+    },
+    {
+        "name": "Crate On Second Floor",
+        "region": "L CCC Courtyard Chapel",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "it20_00_000",
+        "parent_object": "ItemSpawner",
+        "folder_path": "MainGame/Chap3_40/Chap3_40_Item",
+        "item_position": [
+        87.39,
+        4.22,
+        -30.5
+        ]
+    },
+    {
+        "name": "Crate On Second Floor 1",
+        "region": "L CCC Courtyard Chapel",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "it40_00_000",
+        "folder_path": "AppResident/Instance/Item",
+        "item_position": [
+        87.21,
+        4.18,
+        -29.74
+        ]
+    },
+    {
+        "name": "On Table 1",
+        "region": "G WTP Storage Bay",
+        "original_item": "Med Injector",
+        "condition": {},
+        "item_object": "it00_01_000",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        188.4,
+        -5.19,
+        -14.36
+        ]
+    },
+    {
+        "name": "On Table 2",
+        "region": "G WTP Storage Bay",
+        "original_item": "12.7x55 Ammo",
+        "condition": {},
+        "item_object": "it40_02_000",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        187.4,
+        -5.2,
+        -14.62
+        ]
+    },
+    {
+        "name": "On Barrel",
+        "region": "G WTP Storage Bay",
+        "original_item": "Transfusion Bag",
+        "condition": {},
+        "item_object": "it99_06_004",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        188.58,
+        -5.31,
+        -6.34
+        ]
+    },
+    {
+        "name": "Next to Elevator",
+        "region": "G WTP Marie Boss Arena",
+        "original_item": "12.7x55 Ammo",
+        "condition": {},
+        "item_object": "it40_02_000",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        166.48,
+        -11.4,
+        -20.92
+        ]
+    },
+    {
+        "name": "On Barrel Storage Area",
+        "region": "G WTP Marie Boss Arena",
+        "original_item": "12.7x55 Ammo",
+        "condition": {},
+        "item_object": "it40_02_000",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        150.59,
+        -10.69,
+        -25.79
+        ]
+    },
+    {
+        "name": "Crank Lever",
+        "region": "G WTP Marie Boss Arena",
+        "original_item": "Crank Lever",
+        "condition": {},
+        "item_object": "it60_00_111_01",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        140.32,
+        -10.85,
+        -28.35
+        ],
+        "randomized": 0
+    },
+    {
+        "name": "On Barrel Storage Area",
+        "region": "G WTP Marie Boss Arena",
+        "original_item": "12.7x55 Ammo",
+        "condition": {},
+        "item_object": "it40_02_000",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        150.59,
+        -10.69,
+        -25.79
+        ]
+    },
+    {
+        "name": "On Barrel Chemical Treatment",
+        "region": "G WTP Marie Boss Arena",
+        "original_item": "Med Injector",
+        "condition": {},
+        "item_object": "it00_01_000",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        170.53,
+        -11.14,
+        -26.59
+        ]
+    },
+    {
+        "name": "On Cart Chemical Treatment",
+        "region": "G WTP Marie Boss Arena",
+        "original_item": "Molotov Cocktail",
+        "condition": {},
+        "item_object": "it20_00_002",
+        "folder_path": "MainGame/Chap3_05/Chap3_05_Item",
+        "item_position": [
+        175.42,
+        -11.17,
+        -28.43
+        ]
+    },
+    {
         "name": "Crate By Car",
         "region": "L ERC Outside Applegate Hotel",
         "original_item": "Handgun Ammo",
@@ -2775,7 +3600,7 @@
     },
     {
         "name": "Inside Box Central Camp",
-        "region": "L ERC Central Camp",
+        "region": "L Supply Box",
         "original_item": "Handgun Ammo",
         "condition": {},
         "item_object": "it40_00_000",
@@ -2789,7 +3614,7 @@
     },
     {
         "name": "Inside Box 1 Central Camp",
-        "region": "L ERC Central Camp",
+        "region": "L Supply Box",
         "original_item": "Shotgun Ammo",
         "condition": {},
         "item_object": "it40_01_000",
